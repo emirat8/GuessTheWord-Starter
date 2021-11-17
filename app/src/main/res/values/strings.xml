@@ -25,4 +25,7 @@
     <string name="got_it">Got it</string>
     <string name="end_game">End game</string>
     <string name="word_is">The word is…</string>
+    <string name="last_word_text">Last Word is</string>
+    <string name="student_id">D121181516</string>
+    <string name="student_name">M. Emirat Millenium Try</string>
 </resources>
